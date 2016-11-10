@@ -1,0 +1,30 @@
+<svg width="374" height="374" viewBox="0 0 374 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(699 1263)" figma:type="canvas">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Ellipse" style="mix-blend-mode:normal;" figma:type="ellipse">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-699 -1263)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-699 -1263)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path2_stroke" transform="translate(-624 -1137)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path2_stroke" transform="translate(-624 -1076)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Line" style="mix-blend-mode:normal;" figma:type="line">
+<use xlink:href="#path2_stroke" transform="translate(-624 -1009)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 374 187C 374 290.277 290.277 374 187 374C 83.7228 374 0 290.277 0 187C 0 83.7228 83.7228 0 187 0C 290.277 0 374 83.7228 374 187Z"/>
+<path id="path1_stroke_2x" d="M 364 187C 364 284.754 284.754 364 187 364L 187 384C 295.8 384 384 295.8 384 187L 364 187ZM 187 364C 89.2456 364 10 284.754 10 187L -10 187C -10 295.8 78.1999 384 187 384L 187 364ZM 10 187C 10 89.2456 89.2456 10 187 10L 187 -10C 78.1999 -10 -10 78.1999 -10 187L 10 187ZM 187 10C 284.754 10 364 89.2456 364 187L 384 187C 384 78.1999 295.8 -10 187 -10L 187 10Z"/>
+<path id="path2_stroke" d="M 0 0L 224 0L 224 -10L 0 -10L 0 0Z"/>
+</defs>
+</svg>
